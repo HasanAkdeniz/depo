@@ -1,1 +1,1 @@
-
+document.getElementById('tiklaa').click();
