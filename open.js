@@ -1,1 +1,3 @@
-document.getElementById('tiklaa').click();
+function myFunction() {
+  alert("I am an alert box!");
+}
